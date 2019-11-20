@@ -1,6 +1,6 @@
 # App
 
-A sample 12 Facter Application.
+A sample 12 Factor Application.
 
 ## Usage
 
@@ -35,10 +35,10 @@ $ ./server
 ```
 
 ```
-2016/04/15 06:34:12 Starting server...
-2016/04/15 06:34:12 HTTP service listening on 0.0.0.0:5000
-2016/04/15 06:34:12 Health service listening on 0.0.0.0:5001
-2016/04/15 06:34:12 Started successfully.
+2019/11/06 06:34:12 Starting server...
+2019/11/06 06:34:12 HTTP service listening on 0.0.0.0:5000
+2019/11/06 06:34:12 Health service listening on 0.0.0.0:5001
+2019/11/06 06:34:12 Started successfully.
 ```
 
 ### Test with cURL
